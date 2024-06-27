@@ -14,5 +14,5 @@
 
 联系方式：WhitzardIndex@outlook.com
 
-### 如果对您有帮助，请给复旦白泽点亮⭐⭐
+### 如果对您有帮助，请为复旦白泽点亮Star⭐⭐
 [![Star History Chart](https://api.star-history.com/svg?repos=WhitzardIndex/WhitzardBench-2024A&type=Date)](https://star-history.com/#WhitzardIndex/WhitzardBench-2024A&Date)
