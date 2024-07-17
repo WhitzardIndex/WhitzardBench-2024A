@@ -7,7 +7,7 @@
       
 * **进阶级**：whitzardbench-2024a-intermediate-level.csv
 
-* **专家级**：天梯结果已发布，评测数据集暂未公开，如有需要，请与我们联系：[WhitzardIndex@outlook.com](mailto:WhitzardIndex@outlook.com)
+* **专家级**：尽管专家难度天梯结果已发布（全球近30款知名商用大模型平均违规率超70%），考虑到专家难度测试问题毒性较大，因此，采用申请制开放下载。如有需要，请通过以下邮箱与我们联系：[WhitzardIndex@outlook.com](mailto:WhitzardIndex@outlook.com)
 
 ### 持续监测AI大模型安全水位，复旦白泽一直都在
 我们是来自复旦大学系统软件与安全实验室的安全研究团队，欢迎与我们共同探讨AI大模型安全。
